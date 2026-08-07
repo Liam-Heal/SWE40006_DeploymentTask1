@@ -1,0 +1,10 @@
+# Visual Studio cache/options
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# WiX build outputs (optional, but keeps repo clean)
+**/bin/
+**/obj/
