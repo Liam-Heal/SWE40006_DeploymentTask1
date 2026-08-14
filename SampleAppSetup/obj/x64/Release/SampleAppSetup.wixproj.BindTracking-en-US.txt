@@ -1,8 +1,7 @@
-BuiltContentOutput	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\cab1.cab
 BuiltPdbOutput	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\SampleAppSetup.wixpdb
 BuiltTargetOutput	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\SampleAppSetup.msi
 Input	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleApp\bin\Release\net10.0\Newtonsoft.Json.dll
 Input	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleApp\bin\Release\net10.0\SampleApp.dll
 Input	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleApp\bin\Release\net10.0\SampleApp.exe
 Input	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleApp\bin\Release\net10.0\SampleApp.runtimeconfig.json
-Intermediate	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\cab1.cab
+Intermediate	C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\#cab1.cab

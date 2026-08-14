@@ -1,8 +1,6 @@
 C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\bin\x64\Release\en-US\SampleAppSetup.msi
-C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\bin\x64\Release\en-US\cab1.cab
 C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\bin\x64\Release\en-US\SampleAppSetup.wixpdb
 C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\SampleAppSetup.wixproj.CoreCompileInputs.cache
-C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\cab1.cab
 C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\SampleAppSetup.msi
 C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\en-US\SampleAppSetup.wixpdb
 C:\Users\liam1\source\repos\Liam-Heal\SWE40006_DeploymentTask1\SampleAppSetup\obj\x64\Release\SampleAppSetup.wixproj.BindTracking-en-US.txt
