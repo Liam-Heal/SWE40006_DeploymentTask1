@@ -10,6 +10,9 @@
 			<Component>
 				<File Source="$(var.SampleApp.TargetDir)SampleApp.runtimeconfig.json" />
 			</Component>
+			<Component>
+				<File Source="$(var.SampleApp.TargetDir)Newtonsoft.Json.dll" />
+			</Component>
 		</ComponentGroup>
 	</Fragment>
 </Wix>
