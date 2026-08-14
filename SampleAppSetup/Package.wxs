@@ -2,6 +2,8 @@
 	<Package Id="SwinburneStudent.SampleAppSetup" Name="SampleApp" Manufacturer="SwinburneStudent" Version="1.0.0">
 		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
 
+		<MediaTemplate EmbedCab="yes" />
+
 		<Feature Id="Main">
 			<ComponentGroupRef Id="ExampleComponents" />
 		</Feature>
